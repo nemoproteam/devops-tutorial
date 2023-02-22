@@ -26,4 +26,4 @@ jobs:
             cd ~/devops-tutorial
             git pull origin main
             yarn install
-            pm2 restart nextjs
+            pm2 restart app
